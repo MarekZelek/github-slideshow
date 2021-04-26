@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "I'm the master of GitHub!! Am I?"
 
 ---
 
